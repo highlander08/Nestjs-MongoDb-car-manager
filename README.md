@@ -5,7 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-![soma](https://user-images.githubusercontent.com/38596921/126860400-e12271dc-f4df-4ee8-a4a2-80d08172260a.png min-width="200px" max-width="200px" width="200px)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=
 
 ![mongo](https://user-images.githubusercontent.com/38596921/126860403-ef82f8e2-abf7-4714-a6ef-007d34fb56f7.png)
 
