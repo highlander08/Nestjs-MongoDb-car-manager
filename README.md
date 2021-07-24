@@ -2,9 +2,13 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.mongodb.com/pt-br" target="blank"><img src="https://user-images.githubusercontent.com/38596921/126860403-ef82f8e2-abf7-4714-a6ef-007d34fb56f7.png" width="320" alt="Nest Logo" /></a>
+</p>
+
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
-![mongo](https://user-images.githubusercontent.com/38596921/126860403-ef82f8e2-abf7-4714-a6ef-007d34fb56f7.png)
+
 
 [circleci-url]: https://www.mongodb.com/pt-br/cloud/atlas/efficiency
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
